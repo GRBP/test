@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="caidan" unicode="&#58890;" d="M376.5 400.1H140c-42.5 0-76.9 34.4-76.9 76.9V620.5c0 70.8 57.4 128.2 128.2 128.2h185.2c42.5 0 76.9-34.4 76.9-76.9V477c0.1-42.5-34.4-76.9-76.9-76.9zM849.1 400.1H612.6c-42.5 0-76.9 34.4-76.9 76.9V671.8c0 42.5 34.4 76.9 76.9 76.9h185.2c70.8 0 128.2-57.4 128.2-128.2V477c0.1-42.5-34.4-76.9-76.9-76.9zM376.5-22H191.3c-70.8 0-128.2 57.4-128.2 128.2V249.7c0 42.5 34.4 76.9 76.9 76.9h236.5c42.5 0 76.9-34.4 76.9-76.9v-194.8c0.1-42.5-34.4-76.9-76.9-76.9zM797.8-22H612.6c-42.5 0-76.9 34.4-76.9 76.9V249.7c0 42.5 34.4 76.9 76.9 76.9h236.5c42.5 0 76.9-34.4 76.9-76.9v-143.5c0.1-70.8-57.4-128.2-128.2-128.2z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

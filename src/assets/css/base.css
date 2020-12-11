@@ -1,0 +1,65 @@
+@import url('./normalize.css');
+
+/*root  ->  获取根元素html*/
+/*定义变量*/
+:root{
+    --color-text:#666;
+    --color-hight-text:#ff5777;
+    --color-tint:#666;
+    --color-background:#fff;
+    --font-size:14px;
+    --line-height:1.5;
+}
+
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:"Helvetica Neue" ,Helvetica,"Pingfang SC","Hiragino Sans GB",
+    "Microsoft YaHei","微软雅黑",Arial, sans-serif;
+    /*禁止用户选中文字或者图片*/
+    user-select:none;
+
+    /*webkit浏览器引擎  tap点击 highlight背景高亮 color */
+    -webkit-tap-highlight-color: transparent;
+    background: var(--color-background);
+    /* color:var(--color-hight-text); */
+
+    /*相当于窗口宽度100%*/
+    width: 100vw;
+}
+
+a {
+  /* color:var(--color-hight-text); */
+  /*文本修饰*/
+  text-decoration: none;
+}
+
+.clear-fix-::after{
+    clear: both;
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+/*清除浮动*/
+.clear-fix{
+    zoom: 1;
+}
+
+.left{
+    float:left
+}
+
+.right{
+    float: right;
+}
+
+
+
+
